@@ -1,0 +1,3 @@
+[submodule "code/submodule/train_clip"]
+	path = code/submodule/train_clip
+	url = https://github.com/sabraha2/train-CLIP.git
