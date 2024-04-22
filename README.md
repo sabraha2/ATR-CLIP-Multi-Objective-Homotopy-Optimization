@@ -5,3 +5,4 @@ This repository contains all the necessary tools and instructions to replicate t
 ## Abstract
 Automatic Target Recognition (ATR) often confronts intricate visual scenes, necessitating models capable of discerning subtle nuances. This project utilizes a homotopy-based multi-objective optimization technique with the CLIP model to enhance multimodal model precision and generalizability for ATR applications. The integration of vision and language model CLIP and sophisticated optimization strategies exemplifies the potential to significantly boost performance on complex ATR tasks.
 
+![](figs/teaser.pdf)
